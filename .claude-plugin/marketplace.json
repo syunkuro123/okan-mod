@@ -1,0 +1,6 @@
+{
+  "name": "okan-mod",
+  "owner": { "name": "すん（宮田 俊）" },
+  "description": "Claudeを関西のおかんにするMod",
+  "plugins": [{ "name": "okan", "source": "./" }]
+}

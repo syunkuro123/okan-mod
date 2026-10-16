@@ -1,0 +1,7 @@
+{
+  "name": "okan",
+  "version": "1.0.0",
+  "description": "関西のおかんがClaudeの横で見守る。夜ふかしを叱り、同じお願いにツッコみ、時間になったら画面いっぱいに乱入してくる。",
+  "author": { "name": "すん（宮田 俊）" },
+  "types": "./types/index.d.ts"
+}
