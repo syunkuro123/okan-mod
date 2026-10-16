@@ -1,0 +1,7 @@
+# 動いているときに作られる一時ファイル
+screen/
+camera/events.log
+camera/okancam
+.claude-plugin/types/
+tsconfig.json
+.DS_Store
